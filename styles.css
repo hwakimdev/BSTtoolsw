@@ -1,0 +1,22 @@
+#stph{
+	background-color: #c0c0c0;
+    }
+#thph{
+	background-color: #c0c0c0;
+}
+#output{
+	padding-left:50px;
+}
+#errM{
+	color: darkred;
+}
+body{
+    overflow:auto;
+    padding:20px;
+}
+#stresult{
+    color:darkred;
+}
+#tgresult {
+    color:darkred;
+}
